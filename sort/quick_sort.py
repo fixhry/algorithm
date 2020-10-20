@@ -1,5 +1,4 @@
-def log(*args, **kwargs):
-    print(*args, **kwargs)
+from utils import *
 
 
 def exchange(array, i, j):

@@ -1,5 +1,4 @@
-def log(*args, **kwargs):
-    print(*args, **kwargs)
+from utils import *
 
 
 def coin_change(n, cache=None):
